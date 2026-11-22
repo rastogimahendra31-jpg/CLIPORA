@@ -1,0 +1,10 @@
+# installed libraries and your own data never go to GitHub
+.venv/
+workspace/
+__pycache__/
+*.pyc
+.env
+brand.json
+app_state.json
+*.log
+*.bak
